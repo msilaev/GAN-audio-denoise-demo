@@ -8,4 +8,9 @@ Denoising samples taken from noisy speech dataset [NOIZEUS](https://ecs.utdallas
 | **Restaurant**     | <audio controls><source src="data/examples/sp01_restaurant_sn10.wav" type="audio/wav"></audio> | <audio controls><source src="data/examples/Denoised/sp01_restaurant_sn10.pr.wav.wav" type="audio/wav"></audio> |
 | **Babble**         | <audio controls><source src="data/examples/sp01_babble_sn10.wav" type="audio/wav"></audio>     | <audio controls><source src="data/examples/Denoised/sp01_babble_sn10.pr.wav.wav" type="audio/wav"></audio>     |
 | **Street**         | <audio controls><source src="data/examples/sp01_street_sn10.wav" type="audio/wav"></audio>     | <audio controls><source src="data/examples/Denoised/sp01_street_sn10.pr.wav.wav" type="audio/wav"></audio>     |
+
+Some other audio 
+
+| **Category**       | **Noisy**                                                                                      | **Denoised**                                                                                              |
+|--------------------|------------------------------------------------------------------------------------------------|-----------------------------------------------------------------------------------------------------------|
 | **Very old audio** | <audio controls><source src="data/examples/vl.mp3" type="audio/mp3"></audio>                   | <audio controls><source src="data/examples/Denoised/vl.pr.wav.wav" type="audio/wav"></audio>                   |
